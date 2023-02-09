@@ -14,6 +14,7 @@ If you want to add your project to the list or if you known an useful resource (
 
 ### Guides
 - [Roadmap.sh](https://roadmap.sh/) &rarr; A community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings
+- [DevDocs](https://devdocs.io/) &rarr; DevDocs combines multiple API documentations in a fast, organized, and searchable interface
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) &rarr; A Complete Guide to Flexbox by CSS-Tricks
 - [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) &rarr; A Complete Guide to CSS Grid by CSS-Tricks
 - [The Modern JavaScript Tutorial](https://javascript.info/) &rarr; How it's done now. From the basics to advanced topics with simple, but detailed explanations
