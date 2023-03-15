@@ -6,6 +6,12 @@ Here is a list of useful resources to learn from and/or practice some web techno
 
 If you want to add your project to the list or if you known an useful resource (course, web, tool, etc.) which is not listed below, you can tell us in our [Discussions project](https://github.com/corunawtf/discussions/discussions).
 
+## Presentations
+- [Diseño y desarrollo. De 0 a unicornio 🦄](https://www.canva.com/design/DAFa61pjkYE/dJaVkq6nHhrElSxKfLZ8xQ/view) by [**Andrea Magán**](https://github.com/andreamagan)
+
+## Awesome projects
+- [High Tide](https://hightide.earth/) &rarr; Progressive Web App made with Svelte to view information about tides
+
 ## Useful resources
 
 ### Tools
@@ -41,6 +47,3 @@ If you want to add your project to the list or if you known an useful resource (
 - [Coderbyte](https://coderbyte.com/challenges/) &rarr; The only coding challenge platform with everything software developers need to go from novice to pro
 - [HackerRank](https://www.hackerrank.com/) &rarr; HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 3,000+ companies around the world
 - [LeetCode](https://leetcode.com/) &rarr; LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews
-
-## Awesome projects
-- [High Tide](https://hightide.earth/) &rarr; Progressive Web App made with Svelte to view information about tides
