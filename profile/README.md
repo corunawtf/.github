@@ -8,6 +8,7 @@ If you want to add your project to the list or if you known an useful resource (
 
 ## Presentations
 - [Diseño y desarrollo. De 0 a unicornio 🦄](https://www.canva.com/design/DAFa61pjkYE/dJaVkq6nHhrElSxKfLZ8xQ/view) by [**Andrea Magán**](https://github.com/andreamagan)
+- [Anatomía de webs (e ecommerces) perfectas desde el punto de vista SEO partiendo de errores WTF de grandes empresas](https://github.com/corunawtf/.github/files/11486685/presentacionseowtf.pdf) by [**Sergio Castelo**](https://sergiocastelo.com/)
 
 ## Awesome projects
 - [High Tide](https://hightide.earth/) &rarr; Progressive Web App made with Svelte to view information about tides
