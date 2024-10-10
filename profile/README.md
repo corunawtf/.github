@@ -12,6 +12,7 @@ If you want to add your project to the list or if you known an useful resource (
 - [Microfrontends in a monorepo](https://github.com/corunawtf/.github/files/12034231/Microfrontends.in.a.monorepo.pdf) by [**Carlos Cortizas**](https://github.com/PaquitoSoft)
 - [Cómo hacer un buen diseño de UI](https://docs.google.com/presentation/d/17NIilIttQATifjcWgAArlC61oD2QlhjlEl-uE0NKDJw/mobilepresent?slide=id.g1340ad11090_0_90) by **Iria Hidalgo**
 - [Diseño ético en la era digital: ¿Qué estamos creando?](https://drive.google.com/file/d/1-HXYZROYgOK6JVEPfXUwEwRZd8BKz0zo/view?usp=sharing) by [**Alejandro Brea**](https://github.com/BreaGG)
+- [Exploring Schema-Driven Development with gRPC and Connect](https://github.com/user-attachments/files/17324243/Introduction.to.gRPC.and.Schema.driven.development.pdf) by [**Santiago Jiménez**](https://github.com/sago2k8)
 
 ## Awesome projects
 - [High Tide](https://hightide.earth/) &rarr; Progressive Web App made with Svelte to view information about tides
