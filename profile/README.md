@@ -16,7 +16,9 @@ If you want to add your project to the list or if you known an useful resource (
 - [SOA with tRPC](https://github.com/user-attachments/files/18151660/trpc-soa.pdf) by [**Néstor López**](https://github.com/Nsttt)
 - [From Code to Cloud: A Beginner's Journey with Docker and Railway](https://www.canva.com/design/DAGdJaGSuV4/G9jT2GW2uGzfIw644YS40A/watch) by [**Roberto García**](https://github.com/soulcodex)
 - [Tyrian e Indigo](https://github.com/user-attachments/files/19736811/Tyrian.e.Indigo.pdf) by [**David Gil**](https://github.com/dagmendez)
-- [Como brillar en entrevistas tech - Ilda Neta.pdf](https://github.com/user-attachments/files/20451352/Como.brillar.en.entrevistas.tech.-.Ilda.Neta.pdf) by [**Ilda Neta**](https://github.com/ildaneta)
+- [Como brillar en entrevistas tech](https://github.com/user-attachments/files/20451352/Como.brillar.en.entrevistas.tech.-.Ilda.Neta.pdf) by [**Ilda Neta**](https://github.com/ildaneta)
+- [How to Build a Side Project That Doesn’t Stay Side, But Becomes a Real Project](https://github.com/user-attachments/files/20638212/Supermono.pdf) by [**David Bonilla**](https://github.com/dbonillaf)
+
 
 
 ## Awesome projects
