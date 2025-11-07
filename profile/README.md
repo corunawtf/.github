@@ -18,8 +18,7 @@ If you want to add your project to the list or if you known an useful resource (
 - [Tyrian e Indigo](https://github.com/user-attachments/files/19736811/Tyrian.e.Indigo.pdf) by [**David Gil**](https://github.com/dagmendez)
 - [Como brillar en entrevistas tech](https://github.com/user-attachments/files/20451352/Como.brillar.en.entrevistas.tech.-.Ilda.Neta.pdf) by [**Ilda Neta**](https://github.com/ildaneta)
 - [How to Build a Side Project That Doesn’t Stay Side, But Becomes a Real Project](https://github.com/user-attachments/files/20638212/Supermono.pdf) by [**David Bonilla**](https://github.com/dbonillaf)
-
-
+- [Del Saas al Yo-aaS: Self-hosting para recuperar la autonomía digital](https://github.com/user-attachments/files/23413833/Del.Saas.al.Yo-aaS.Self-hosting.para.recuperar.la.autonomia.digital.pdf) by [**Ignacio Espósito**](https://github.com/qwor01)
 
 ## Awesome projects
 - [High Tide](https://hightide.earth/) &rarr; Progressive Web App made with Svelte to view information about tides
