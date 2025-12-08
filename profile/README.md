@@ -10,7 +10,7 @@ If you want to add your project to the list or if you known an useful resource (
 - [Diseño y desarrollo. De 0 a unicornio 🦄](https://www.canva.com/design/DAFa61pjkYE/dJaVkq6nHhrElSxKfLZ8xQ/view) by [**Andrea Magán**](https://github.com/andreamagan)
 - [Anatomía de webs (e ecommerces) perfectas desde el punto de vista SEO partiendo de errores WTF de grandes empresas](https://github.com/corunawtf/.github/files/11486685/presentacionseowtf.pdf) by [**Sergio Castelo**](https://sergiocastelo.com/)
 - [Microfrontends in a monorepo](https://github.com/corunawtf/.github/files/12034231/Microfrontends.in.a.monorepo.pdf) by [**Carlos Cortizas**](https://github.com/PaquitoSoft)
-- [Cómo hacer un buen diseño de UI](https://docs.google.com/presentation/d/17NIilIttQATifjcWgAArlC61oD2QlhjlEl-uE0NKDJw/mobilepresent?slide=id.g1340ad11090_0_90) by **Iria Hidalgo**
+- [Cómo hacer un buen diseño de UI](https://docs.google.com/presentation/d/17NIilIttQATifjcWgAArlC61oD2QlhjlEl-uE0NKDJw/mobilepresent?slide=id.g1340ad11090_0_90) by [**Iria Hidalgo**](https://github.com/Iriahn)
 - [Diseño ético en la era digital: ¿Qué estamos creando?](https://drive.google.com/file/d/1-HXYZROYgOK6JVEPfXUwEwRZd8BKz0zo/view?usp=sharing) by [**Alejandro Brea**](https://github.com/BreaGG)
 - [Exploring Schema-Driven Development with gRPC and Connect](https://github.com/user-attachments/files/17324243/Introduction.to.gRPC.and.Schema.driven.development.pdf) by [**Santiago Jiménez**](https://github.com/sago2k8)
 - [SOA with tRPC](https://github.com/user-attachments/files/18151660/trpc-soa.pdf) by [**Néstor López**](https://github.com/Nsttt)
